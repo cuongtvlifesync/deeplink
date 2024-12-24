@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "devapp",
+      "package_name": "com.proptechjapan.renteasetest1",
+      "sha256_cert_fingerprints":
+      ["0F:F9:C6:E1:FC:F1:99:B3:DC:FF:3F:80:99:FE:50:29:BC:EB:0C:89:B1:BE:1E:66:52:D5:AE:65:B1:01:65:F3"]
+    }
+}]
